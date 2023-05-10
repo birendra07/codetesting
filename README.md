@@ -1,5 +1,6 @@
 # codetesting
 Learning about unittest module for testing code in Python.
+<<<<<<< HEAD
 # Learning about the `unittest` Module in Python
 
 ## Introduction
@@ -76,3 +77,5 @@ The `unittest` module is a powerful and versatile testing framework for Python d
 - [Python documentation on unittest](https://docs.python.org/3/library/unittest.html)
 - [Real Python tutorial on unittest](https://realpython.com/python-testing/)
 - [Python Testing with pytest book](https://pragprog.com/titles/bopytest/python-testing-with-pytest/) (covers `unittest` and other testing frameworks)
+=======
+>>>>>>> origin/master
